@@ -1,0 +1,30 @@
+C:\Users\SENATI.DESKTOP-BDJFGAS\Documents\Visual Studio 2022\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.AssemblyReference.cache
+C:\Users\SENATI.DESKTOP-BDJFGAS\Documents\Visual Studio 2022\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENATI.DESKTOP-BDJFGAS\Documents\Visual Studio 2022\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.login.resources
+C:\Users\SENATI.DESKTOP-BDJFGAS\Documents\Visual Studio 2022\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\SENATI.DESKTOP-BDJFGAS\Documents\Visual Studio 2022\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.GenerateResource.cache
+C:\Users\SENATI.DESKTOP-BDJFGAS\Documents\Visual Studio 2022\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.CoreCompileInputs.cache
+C:\Users\SENATI.DESKTOP-BDJFGAS\Documents\Visual Studio 2022\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.exe.config
+C:\Users\SENATI.DESKTOP-BDJFGAS\Documents\Visual Studio 2022\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.exe
+C:\Users\SENATI.DESKTOP-BDJFGAS\Documents\Visual Studio 2022\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.pdb
+C:\Users\SENATI.DESKTOP-BDJFGAS\Documents\Visual Studio 2022\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.exe
+C:\Users\SENATI.DESKTOP-BDJFGAS\Documents\Visual Studio 2022\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.pdb
+C:\Users\SENATI.DESKTOP-BDJFGAS\Documents\Visual Studio 2022\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.consulta.resources
+C:\Users\SENATI.DESKTOP-BDJFGAS\Documents\Visual Studio 2022\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.mantenimiento.resources
+C:\Users\SENATI.DESKTOP-BDJFGAS\Documents\Visual Studio 2022\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.menu.resources
+C:\Users\SENATI.DESKTOP-BDJFGAS\Documents\Visual Studio 2022\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.reporte.resources
+C:\Users\Rojass Anthony\OneDrive\Desktop\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.exe.config
+C:\Users\Rojass Anthony\OneDrive\Desktop\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.exe
+C:\Users\Rojass Anthony\OneDrive\Desktop\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.pdb
+C:\Users\Rojass Anthony\OneDrive\Desktop\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.AssemblyReference.cache
+C:\Users\Rojass Anthony\OneDrive\Desktop\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rojass Anthony\OneDrive\Desktop\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.consulta.resources
+C:\Users\Rojass Anthony\OneDrive\Desktop\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.login.resources
+C:\Users\Rojass Anthony\OneDrive\Desktop\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.mantenimiento.resources
+C:\Users\Rojass Anthony\OneDrive\Desktop\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.menu.resources
+C:\Users\Rojass Anthony\OneDrive\Desktop\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\Rojass Anthony\OneDrive\Desktop\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.reporte.resources
+C:\Users\Rojass Anthony\OneDrive\Desktop\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.GenerateResource.cache
+C:\Users\Rojass Anthony\OneDrive\Desktop\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.CoreCompileInputs.cache
+C:\Users\Rojass Anthony\OneDrive\Desktop\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.exe
+C:\Users\Rojass Anthony\OneDrive\Desktop\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.pdb
